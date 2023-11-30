@@ -1,0 +1,12 @@
+npm i typescript @types/node jest @types/jest ts-jest
+
+npm init -y
+npx jest --init
+npx tsc init
+npx tsc --init
+npm i cors @types/cors
+npm i reflect-metadata
+npm i express @types/express
+npm i compression @types/compression
+
+npm i supertest @types/supertest
