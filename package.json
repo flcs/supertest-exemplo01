@@ -19,6 +19,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'executou o build'",
     "test": "jest"
   },
   "keywords": [],
